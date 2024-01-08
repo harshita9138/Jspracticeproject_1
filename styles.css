@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(93, 151, 151);
+  }
+  .btn {
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+    border-radius: 4px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 10px;
+  
+    background: #eb4163;
+    padding: 30px 40px 7px 40px;
+    text-decoration: none;
+    border-color: transparent;
+  }
+  #grey {
+    background: grey;
+  }
+  
+  .childdiv {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  #app {
+    text-align: center;
+    color: white;
+  }
+  .warn {
+    position: absolute;
+    color: white;
+    font-size: 10px;
+    left: 20%;
+    bottom: 0px;
+  }
+  
